@@ -24,3 +24,4 @@ AC_DEFUN([OPENFAUCET_PYTHON_CHECK_IMPORT],[
   AS_VAR_IF([AS_TR_SH([openfaucet_cv_python_import_$1])], [yes], [$2], [$3])
 ])
 
+#YES
